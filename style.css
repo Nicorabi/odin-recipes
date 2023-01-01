@@ -1,36 +1,40 @@
 * {
-    border: 2px yellow;
+    border: 2px black;
     box-sizing: border-box;
+    background-color: lightgray;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #odin {
     text-align: center;
-    color: red;
+    color: yellow;
     font-weight: bolder;
     font-size: 80px;
-    background-color: yellow;
+    background-color: black;
     text-decoration: underline;
+    margin-top: 9px;
 }
 
 .lasagna {
     font-size: 40px;
-    color: red;
-    background-color: yellowgreen;
-    
+    color: yellow;
+    background-color: black;
 }
 
 #home {
-    font-size: 70px;
-    color: red;
-    background-color: yellow;
+    font-size: 80px;
+    color: yellow;
+    background-color: black;
     text-align: center;
     display: block;
+    text-decoration: underline;
 }
 
 .las {
-    color: red;
-    background-color: yellow;
-    font-size: 30px;
+    color: yellow;
+    background-color: black;
+    font-size: 40px;
 }
 
 .img {
@@ -39,20 +43,20 @@
 }
 
 .desc {
-    background-color: yellow;
-    color: red;
+    background-color: black;
+    color: yellow;
     font-size: 30px;
 }
 
 .ing {
-    background-color: yellow;
-    color: red;
+    background-color: black;
+    color: yellow;
     font-size: 30px;
 }
 
 .steps {
-    background-color: yellow;
-    color: red;
+    background-color: black;
+    color: yellow;
     font-size: 30px;
 }
 
