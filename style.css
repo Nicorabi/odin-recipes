@@ -1,0 +1,62 @@
+* {
+    border: 2px yellow;
+    box-sizing: border-box;
+}
+
+#odin {
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+    font-size: 80px;
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+.lasagna {
+    font-size: 40px;
+    color: red;
+    background-color: yellowgreen;
+    
+}
+
+#home {
+    font-size: 70px;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    display: block;
+}
+
+.las {
+    color: red;
+    background-color: yellow;
+    font-size: 30px;
+}
+
+.img {
+    height: auto;
+    width: 500px;
+}
+
+.desc {
+    background-color: yellow;
+    color: red;
+    font-size: 30px;
+}
+
+.ing {
+    background-color: yellow;
+    color: red;
+    font-size: 30px;
+}
+
+.steps {
+    background-color: yellow;
+    color: red;
+    font-size: 30px;
+}
+
+.pic {
+    height: auto;
+    width: 400px;
+}
