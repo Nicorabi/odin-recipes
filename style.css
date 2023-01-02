@@ -79,3 +79,7 @@
     height: auto;
     width: 400px;
 }
+
+p {
+    text-align: left;
+}
